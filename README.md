@@ -36,5 +36,5 @@ This script is provided for educational purposes and as a reference. It's import
 
 ## Credits
 
-Script created by JF
+Script created by iam0ti
 	
